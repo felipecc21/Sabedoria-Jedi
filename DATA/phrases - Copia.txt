@@ -1,0 +1,131 @@
+"Grandes líderes inspiram a grandeza nos outros" -- S01E01
+"Confiança não é uma questão de escolha, mas de convicção" -- S01E02
+"O caminho para a sabedoria é fácil para quem não é cego com ela" -- S01E03
+"Um plano só é bom para quem sabe executá-lo" -- S01E04
+"O que melhor constrói a confiança é a experiência" -- S01E05
+"Confie em seus amigos, e eles terão motivos para confiar em você" -- S01E06
+"Conserve os amigos mantendo seu coração mais eternecido que a cabeça" -- S01E07
+"A ocasião faz os heróis" -- S01E08
+"Ignore seus instintos por seu próprio risco" -- S01E09
+"O mais poderoso é aquele que controla o seu poder" -- S01E10
+"O caminho sinuoso para a paz é sempre recompensador, independente de quantas curvas se apresentem" -- S01E11
+"É melhor um fracasso honroso que um sucesso indigno" -- S01E12
+"A ganância e o medo da perda são as raízes que sustentam a árvore do mal" -- S01E13
+"Numa guerra é necessário que se escolha de que lado ficar" -- S01E14
+"A arrogância obscurece a sabedoria" -- S01E15
+"A verdade ilumina a mente, mas nem sempre traz felicidade ao coração" -- S01E16
+"O medo é uma doença; a única cura é a esperança" -- S01E17
+"Uma única chance é uma galáxia de esperanças" -- S01E18
+"Árdua é a estrada que leva à altíssima grandeza" -- S01E19
+"O custo de uma guerra jamais pode ser apurado" -- S01E20
+"O entendimento é uma virtude a ser cultivada, jamais uma fraqueza a ser desprezada" -- S01E21
+"Um segredo compartilhado consolida a confiança" -- S01E22
+"Uma lição aprendida é uma lição merecida" -- S02E01
+"Excesso de confiança é a forma mais perigosa do desleixo" -- S02E02
+"O primeiro passo para se corrigir um erro é paciência" -- S02E03
+"Um coração verdadeiro não deve jamais ser posto em dúvida" -- S02E04
+"Acredite em si mesmo ou ninguém mais acreditará" -- S02E05
+"Nenhum presente é mais precioso do que a confiança" -- S02E06
+"Às vezes aceitar ajuda é mais difícil do que oferecê-la" -- S02E07
+"Atos, não palavras, são o verdadeiro critério de uma amizade" -- S02E08
+"Para tudo que se ganha, perde-se algo em compensação" -- S02E09
+"É a questão de honra que faz alguém honorável" -- S02E10
+"O fácil nem sempre é o mais simples" -- S02E11
+"Se você ignora o passado, você coloca o futuro em risco" -- S02E12
+"Não tema o futuro, não chore o passado" -- S02E13
+"Na guerra, a verdade é a primeira vítima" -- S02E14
+"Procurar a verdade é fácil. Difícil é aceitá-la" -- S02E15
+"Um líder sábio sabe quando deve ser seguidor" -- S02E16
+"A coragem cria heróis, mas a confiança cria amizades" -- S02E17
+"Escolha o que é certo, não o que é fácil" -- S02E18
+"A fera mais perigosa é a que está dentro de nós" -- S02E19
+"Quem meu pai foi importa menos que a lembrança que tenho dele" -- S02E20
+"A adversidade é o verdadeiro teste da amizade" -- S02E21
+"A vingança é uma confissão de dor" -- S02E22
+"Irmãos em armas são irmãos pra vida toda" -- S03E01
+"Lutar em uma guerra testa as habilidades de um soldado, defender seu lar testa o coração de um soldado." -- S03E02
+"Onde existe força de vontade existe um meio" -- S03E03
+"Uma criança roubada é uma esperança perdida" -- S03E04
+"O desafio da esperança é o de superar a corrupção" -- S03E05
+"Aqueles que aplicam a lei devem obedecer à lei" -- S03E06
+"O futuro tem muitos caminhos - escolha sabiamente" -- S03E07
+"Uma falha no planejamento é um plano pro fracasso." -- S03E08
+"O amor vem de todas as formas e tamanhos." -- S03E09
+"O medo é um grande motivador." -- S03E10
+"A verdade pode derrotar o espectro do medo" -- S03E11
+"O caminho mais rápido para a destruição é pela vingança." -- S03E12
+"Não se nasce com a maldade, ela é ensinada." -- S03E13
+"O caminho para o mal pode trazer grande poder, mas não lealdade." --S03E14
+"O equilíbrio é encontrado em quem enfrenta a sua culpa." -- S03E15
+"Aquele que se rende a esperança, se rende a vida." -- S03E16
+"Quem busca controlar o destino nunca encontrará a paz." -- S03E17
+"A adaptação é a chave para a sobrevivência" -- S03E18
+"Se algo tiver que dar errado, dará." -- S03E19
+"Sem honra, a vitória é vazia." -- S03E20
+"Sem humildade, a coragem é um jogo perigoso." -- S03E21
+"Um bom aluno é aquilo que o professor espera que seja." -- S03E22
+"Quando o destino chama, o escolhido não tem escolha." -- S04E01
+"Somente através do fogo uma espada forte é forjada." -- S04E02
+"Coroas são herdadas, reinos são conquistados." -- S04E03
+"A aparência nem sempre diz quem realmente a pessoa é." -- S04E04
+"Compreender é honrar a verdade sob a superfície." -- S04E05
+"Quem é o mais tolo, o tolo ou o tolo que o segue?" -- S04E06
+"O primeiro passo até a lealdade é a confiança." -- S04E07
+"O caminho da ignorância é guiado pelo medo." -- S04E08
+"O homem sábio lidera, o homem forte segue." -- S04E09
+"Nossas ações definem o nosso legado." -- S04E10
+"Nosso objetivo sempre reflete o caminho percorrido." -- S04E11
+"Aquele que escraviza inevitavelmente se torna escravo." -- S04E12
+"Grandes esperanças podem surgir de pequenos sacrifícios." -- S04E13
+"A amizade nos mostra quem realmente somos." -- S04E14
+"Toda guerra é baseada na mentira." -- S04E15
+"Mantenha seus amigos por perto e seus inimigos mais perto ainda." -- S04E16
+"Os fortes sobrevivem, os nobres superam." -- S04E17
+"A confiança é o maior presente, mas deve ser conquistada." -- S04E18
+"Liberte-se do passado para poder ater-se ao futuro." -- S04E19
+"Quem somos nunca muda, quem pensamos que somos que muda." -- S04E20
+"Um inimigo caído pode subir novamente, mas o reconciliado é realmente derrotado." -- S04E21
+"O inimigo do meu inimigo é meu amigo." -- S04E22
+"A força de caráter pode derrotar a força em números." -- S05E01
+"O medo é uma arma maleável." -- S05E02
+"Procurar por algo é acreditar em sua existência." -- S05E03
+"Lutas geralmente começam e terminam com a verdade." -- S05E04
+"Desobediência é uma exigência de mudança." -- S05E05
+"Aquele que enfrenta a si mesmo, descobre a si mesmo." -- S05E06
+"Os jovens são frequentemente subestimados." -- S05E07
+"Quando resgatamos a outros, resgatamos a nós mesmos." -- S05E08
+"Escolha seus inimigos de forma sábia. Eles podem ser sua última esperança." -- S05E09
+"Humildade é a única defesa contra a humilhação." -- S05E10
+"Quando tudo parece perdido, um herói verdadeiro traz a esperança." -- S05E11
+"A arma mais poderosa de um soldado é a coragem." -- S05E12
+"Você deve confiar em outros, ou o sucesso é impossível." -- S05E13
+"Uma visão pode ter muitas interpretações." -- S05E14
+"Alianças podem coibir verdadeiras intenções." -- S05E15
+"A moralidade separa heróis de vilões." -- S05E16
+"Às vezes até a menor das dúvidas pode abalar a maior das crenças." -- S05E17
+"A coragem começa ao se confiar em si mesmo." -- S05E18
+"Nunca se desespere a ponto de confiar nos desonestos." -- S05E19
+"Nunca abra mão da esperança, não importa o quão sombrias as coisas se pareçam." -- S05E20
+"A verdade sobre si mesmo é sempre a mais difícil de se aceitar." -- S06E01
+"Os sábios se beneficiam de uma segunda opinião." -- S06E02
+"Quando em dúvida, vá até a fonte." -- S06E03
+"A crença popular nem sempre é a correta." -- S06E04
+"Amar é confiar. Confiar é acreditar." -- S06E05
+"Inveja é o caminho do caos." -- S06E06
+"Traição é a alma da ganância." -- S06E07
+"Sem escuridão não pode haver luz." -- S06E08
+"A sabedoria nasce nos tolos tão bem quanto nos sábios." -- S06E09
+"O que é perdido é muitas vezes encontrado." -- S06E10
+"A loucura pode às vezes ser o caminho da verdade." -- S06E11
+"A morte é só o começo." -- S06E12
+"Enfrentar todos os seus medos te libertará de si mesmo." -- S06E13
+"Aceite os outros por suas diferenças e se tornará integro." -- S07E01
+"A busca pela verdade começa com uma crença." -- S07E02
+"A sobrevivência é um passo no caminho da vida." -- S07E03
+"Confiança depositada em alguém é confiança conquistada." -- S07E04
+"Se não há um caminho à sua frente, crie o seu." -- S07E05
+"Erros são lições valiosas, geralmente aprendidas tarde demais." -- S07E06
+"Quem você foi não tem que definir quem você é." -- S07E07
+"Você pode mudar quem você é, mas não pode fugir de si mesmo." -- S07E08
+"Obrigada pelo apoio. Como sempre. Amigo é pra essas coisas." -- S07E09
+"Na ocasião, eu pensei que Dookan era um velho tolo, mas agora… agora eu vejo que ele e eu somos iguais. Um passo atrás. O lado sombrio nunca esteve tão forte." -- S07E10

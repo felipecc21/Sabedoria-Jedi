@@ -7,16 +7,20 @@
     <link rel="stylesheet" href="./CSS/reset.css">
     <link rel="stylesheet" href="./CSS/index.css">
     <script defer src="./JSS/index.js"></script>
-    <title>Frases</title>
+    <link rel="icon" href="./IMG/favicon.ico" type="image/x-icon">
+    <title>Sabedoria Jedi</title>
 </head>
 
 <body>
 
     <div class="container">
-        <h1>Frase Aleatória</h1>
-        <p id="randomPhrase"></p>
-        <button onclick="generateRandomPhrase()">Gerar Frase</button>
-      </div>
+        <h1 id="intro">Encontre a sabedoria Jedi para iluminar seu caminho.</h1>
+        
+        <button id="generateButton" onclick="generateRandomPhrase()">BUSQUE A SABEDORIA</button>
+        <h1 id="randomPhrase"></h1>
+        <br>
+        <button id="newPhraseButton" onclick="generateRandomPhrase()">NOVA SABEDORIA</button>
+    </div>
 
 </body>
 

@@ -17,21 +17,19 @@ function generateRandomPhrase() {
     introElement.style.opacity = 1; // Define a opacidade inicial como 1
   
     // Animação de fade-out da introdução
-    var fadeInInterval = setInterval(function() {
-      introElement.style.opacity = parseFloat(introElement.style.opacity) + 0.1;
-      generateButton.style.opacity = parseFloat(generateButton.style.opacity) + 0.1;
-    
-      if (parseFloat(introElement.style.opacity) >= 1) {
-        clearInterval(fadeInInterval);
+    var fadeOutInterval = setInterval(function() {
+      introElement.style.opacity = parseFloat(introElement.style.opacity) - 0.1;
+      if (parseFloat(introElement.style.opacity) <= 0) {
+        clearInterval(fadeOutInterval);
         introElement.style.display = "none";
         generateButton.style.display = "none";
         loadPhrases()
-      .then(phrases => {
-        phrasesArray = phrases;
-        displayRandomPhrase();
-      });
-  }
-}, 100);
+          .then(phrases => {
+            phrasesArray = phrases;
+            displayRandomPhrase();
+          });
+      }
+    }, 100);
   } else {
     // Se o array de frases já estiver carregado, apenas exibir uma frase aleatória
     displayRandomPhrase();

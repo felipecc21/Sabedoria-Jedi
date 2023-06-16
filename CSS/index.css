@@ -1,14 +1,67 @@
+@font-face {
+  font-family: 'Kalam';
+  src: url(../DATA/Roboto-Light.ttf);
+}
+
+* {
+  font-family: 'Kalam', cursive;
+}
+
+body {
+  background-image: url('../IMG/backgrond.jpg');
+  background-size: cover;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 .container {
-    text-align: center;
-    margin-top: 100px;
-  }
-  
-  h1 {
-    font-size: 24px;
-  }
-  
-  button {
-    padding: 10px 20px;
-    font-size: 16px;
-    margin-top: 20px;
-  }
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  border-radius: 18px;
+  color: #cc9e12;
+  font-weight: bold;
+  border: 2px solid #cc9e12; 
+  background-color: transparent; 
+  cursor: pointer;
+  box-shadow: 2px 2px 4px #cc9e12;
+  text-shadow: 1px 1px 2px #cc9e12;
+}
+
+button:hover {
+  transform: scale(1.05);
+  box-shadow: 4px 4px 6px #cc9e12;
+  text-shadow: 2px 2px 3px #cc9e12;
+}
+
+
+#newPhraseButton {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 20px;
+  display: none;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #47a2ec; 
+  text-shadow: 0 0 10px #47a2ec, 0 0 20px #47a2ec, 0 0 30px #47a2ec, 0 0 40px #47a2ec;
+}
+
+p {
+  color:#47a2ec;
+}
+
+
